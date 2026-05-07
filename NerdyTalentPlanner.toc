@@ -1,0 +1,23 @@
+## Interface: 30300
+## Title: Nerdy Talent Planner
+## Notes: In-game talent calculator and build planner.
+## Author: Ravenhost
+## Version: 0.2.0
+## SavedVariables: NerdyTalentPlannerDB
+
+Core\Boot.lua
+Data\TalentData.lua
+Data\TalentData_Warrior.lua
+Data\TalentData_Paladin.lua
+Data\TalentData_Hunter.lua
+Data\TalentData_Rogue.lua
+Data\TalentData_Priest.lua
+Data\TalentData_Shaman.lua
+Data\TalentData_Mage.lua
+Data\TalentData_Warlock.lua
+Data\TalentData_Druid.lua
+Core\Index.lua
+Core\Build.lua
+Core\Codec.lua
+UI\Main.lua
+UI\Launcher.lua
